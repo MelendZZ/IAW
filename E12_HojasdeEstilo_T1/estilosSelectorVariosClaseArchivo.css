@@ -1,0 +1,25 @@
+thead{
+                font-size: 14;
+                font-weight: bold;
+                color: black;
+                background-color: cornflowerblue;
+            }
+            
+            tbody{
+                font-size: 12;
+                font-weight: normal;
+                color: midnightblue;
+                background-color: gainsboro;
+            }
+            
+            ul{
+                font-size: 12;
+                font-weight: lighter;
+                color: mediumslateblue;
+            }
+            
+            ol{
+                font-size: 12;
+                font-weight: bold;
+                color: brown;
+            }

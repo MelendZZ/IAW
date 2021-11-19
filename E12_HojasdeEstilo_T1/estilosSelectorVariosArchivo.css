@@ -1,0 +1,57 @@
+h1 {
+                background-color:gray;
+                font-family:arial;
+                margin:0;
+            } 
+            
+            body{
+                font-family: arial narrow;
+                align-content: center;
+                font-size: 16;
+                background-color: blanchedalmond;
+                color: green;
+            }
+            
+            thead{
+                font-family: courier;
+                align-content: center;
+                font-weight: bold;
+                background-color: cyan;
+                text-align: center;
+                color: blue;
+            }
+            
+            tbody{
+                font-family: verdana;
+                font-size: 12;
+                background-color: cyan;
+                color: red;
+                text-align: center;
+                font-weight: normal;
+            }
+            
+            ol{
+                font-family: broadway;
+                background-color: greenyellow;
+                color:darkcyan;
+            }
+            
+            ul{
+                font-family: gothic;
+                background-color: gold;
+                color:blueviolet;
+            }
+            
+            p{
+                background-color: aquamarine;
+                color: black;
+            }
+            
+            table{
+                border: 1;
+                width: 50%;
+            }
+            
+            caption{
+                color: red;
+            }
