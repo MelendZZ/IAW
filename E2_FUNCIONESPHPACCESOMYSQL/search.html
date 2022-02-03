@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h3>Búsqueda de libros</h3>
+
+        <form name="insert" action="results.php" method="POST">
+            Elige tipo de busqueda <br>
+            <select name="search">
+                <option value="author">Autor</option> 
+                <option value="title">Titulo</option> 
+                <option value="isbn">ISBN</option>
+            </select> <br>
+            Introduce datos de búsqueda: <br>
+            <input type="text" name="dato" value="" size="10"  /><br>
+            <input type="submit" value="Buscar" name="Buscar" />
+        </form></body>
+</html>
